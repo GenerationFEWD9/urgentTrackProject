@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/urgentTrackProject/static/css/main.55c0bc9f.css",
-    "main.js": "/urgentTrackProject/static/js/main.6bbecf28.js",
+    "main.css": "/urgentTrackProject/static/css/main.0f03f97c.css",
+    "main.js": "/urgentTrackProject/static/js/main.daa496e8.js",
     "static/js/787.bee62828.chunk.js": "/urgentTrackProject/static/js/787.bee62828.chunk.js",
+    "static/media/slick.svg": "/urgentTrackProject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/urgentTrackProject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/urgentTrackProject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/urgentTrackProject/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/urgentTrackProject/index.html",
-    "main.55c0bc9f.css.map": "/urgentTrackProject/static/css/main.55c0bc9f.css.map",
-    "main.6bbecf28.js.map": "/urgentTrackProject/static/js/main.6bbecf28.js.map",
+    "main.0f03f97c.css.map": "/urgentTrackProject/static/css/main.0f03f97c.css.map",
+    "main.daa496e8.js.map": "/urgentTrackProject/static/js/main.daa496e8.js.map",
     "787.bee62828.chunk.js.map": "/urgentTrackProject/static/js/787.bee62828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55c0bc9f.css",
-    "static/js/main.6bbecf28.js"
+    "static/css/main.0f03f97c.css",
+    "static/js/main.daa496e8.js"
   ]
 }
