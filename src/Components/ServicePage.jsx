@@ -335,7 +335,7 @@ function ServicePage({ userLocation }) {
                           <Slider {...settings2}>
                             {/* to filter out the matched selected service according to user click and move it to the first position inside the ul list using spread in arrays */}
                             {/* {service=key, avaiable= value} */}
-
+                            {/* { ===1 checks if selectedService is truthy (i.e., not null, undefined, '', false, or 0), } */}
                             {[
                               ...(selectedService &&
                               obj.hospital.specialistServices[
