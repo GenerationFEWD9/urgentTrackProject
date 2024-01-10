@@ -722,10 +722,16 @@ p {
     margin-bottom: 70px;
   }
   .footer-wrapper {
-    margin-top: 30px;
-    flex-direction: column;
-    display: flex;
-    margin: 20em;
+    margin-top: 130px !important;
+    flex-direction: column !important;
+    display: flex !important;
+    /* margin: 20em; */
+  }
+
+  footer {
+    display: flex !important;
+    width: 100vw !important;
+    margin-top: -50px;
   }
 
   /* to put the close icon on top left */
