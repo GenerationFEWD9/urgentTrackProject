@@ -331,7 +331,7 @@ Opinion.jsx amend number input
 
 1. GeneralPage district color bug fix
 
-2024/01/09 17:00 Abbie's update
+2024/01/09 16:50 Abbie's update
 
 1. Service updated ipad and mobile responsive
 
