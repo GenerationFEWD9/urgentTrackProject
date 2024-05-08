@@ -1,3 +1,27 @@
+# Hospital Information Checking Website **`(Name: UrgentTrack)`**
+
+Allows users to efficiently find the location of the nearest 24-hour emergency rooms and related medical information more easily in Hong Kong.
+
+
+Preview:
+
+
+<img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://static.wixstatic.com/media/a6218d_e4ec5a6b34d04b84b801f16af9f3b8c7~mv2.png/v1/crop/x_0,y_66,w_1440,h_763/fill/w_1440,h_763,fp_0.50_0.50,q_90,enc_auto/Desktop%20-%204%20(1).png" />
+
+
+
+## ⚡ How to use
+
+1. Go to UrgentTrack website.
+```md
+https://generationfewd9.github.io/urgentTrackProject/
+```
+
+2. Allow  `know your location` 
+
+
+## ⚡ Past Updated
+
 2023/12/22
 Abbie's Update
 
